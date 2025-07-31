@@ -1,5 +1,7 @@
 <h1 align="center">Minecraft: Legacy Console Edition Research&Development</h1>
 
+![Banner](/profile/banner.png)
+
 [![Discord Channel][discord-badge]][discord]
 
 [discord]: https://discord.gg/zRDY32WMfs
