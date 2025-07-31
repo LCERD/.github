@@ -17,3 +17,6 @@
 - [OMI Filetype Library](https://github.com/PhoenixARC/-OMI-Filetype-Library/)
 - [libLCE](https://github.com/DexrnZacAttack/LibLCE)
 - [CodeLib](https://github.com/David-xF/CodeLib)
+
+## Decomp
+- [LCE Decomp](https://github.com/GRAnimated/MinecraftLCE)
