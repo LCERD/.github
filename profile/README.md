@@ -1,4 +1,4 @@
-<h1 align="center">Legacy Console Edition Research&Development</h1>
+<h1 align="center">Legacy Console Edition Research & Development</h1>
 
 ![Banner](/profile/banner.png)
 
