@@ -1,6 +1,4 @@
-# Minecraft: Legacy Console Edition Research&Development
-
-![Banner](/profile/banner.png)
+<h1 align="center">Minecraft: Legacy Console Edition Research&Development</h1>
 
 [![Discord Channel][discord-badge]][discord]
 
