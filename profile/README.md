@@ -1,5 +1,7 @@
 # Minecraft: Legacy Console Edition Research&Development
 
+![Banner](/profile/banner.png)
+
 [![Discord Channel][discord-badge]][discord]
 
 [discord]: https://discord.gg/zRDY32WMfs
