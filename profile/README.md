@@ -10,11 +10,11 @@
 <!-- TODO: originally planned to have github pfp next to maintainer name and repo logo next to repo but never figured out how to make the text look nice -->
 <!-- I do think that the lack of images makes this look quite bare. -->
 ## Projects
-| Name                                                | Maintainer                                          | Description                                                                                                                                                                                                                         |
-|-----------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Legacy++](https://github.com/LCE-R-D/LegacyPP)     | [DexrnZacAttack](https://github.com/DexrnZacAttack) | Legacy Console Edition file editor using libLCE                                                                                                                                                                                     |
-| [PCK++](https://github.com/LCE-R-D/PCKPP)           | [May/MattNL](https://github.com/MattN-L)            | A C++ Rewrite of PCK Studio, a tool to edit Minecraft Legacy Console Edition file formats. Not affiliated with Mojang Studios, 4J Studios, nor Microsoft. This is a non profit open source tool to improve on the existing project. |
-| [LCENetplay](https://github.com/LCE-R-D/LCENetplay) | [DexrnZacAttack](https://github.com/DexrnZacAttack) | Minecraft: Legacy Console Edition Netplay                                                                                                                                                                                           |
+| Name                                                | Maintainer                                          | Description                                                                                |
+|-----------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------------------------------------------|
+| [Legacy++](https://github.com/LCE-R-D/LegacyPP)     | [DexrnZacAttack](https://github.com/DexrnZacAttack) | Legacy Console Edition file editor using libLCE                                            |
+| [PCK++](https://github.com/LCE-R-D/PCKPP)           | [May/MattNL](https://github.com/MattN-L)            | A C++ Rewrite of PCK Studio, a tool to edit Minecraft Legacy Console Edition file formats. |
+| [LCENetplay](https://github.com/LCE-R-D/LCENetplay) | [DexrnZacAttack](https://github.com/DexrnZacAttack) | Minecraft: Legacy Console Edition Netplay                                                  |
 
 ## Other Cool Projects
 
