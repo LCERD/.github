@@ -8,11 +8,12 @@
 <!-- TODO: originally planned to have github pfp next to maintainer name and repo logo next to repo but never figured out how to make the text look nice -->
 <!-- I do think that the lack of images makes this look quite bare. -->
 ## Projects
-| Name                                                | Maintainer                                          | Description                                                                                |
-|-----------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------------------------------------------|
-| [Legacy++](https://github.com/LCE-R-D/LegacyPP)     | [DexrnZacAttack](https://github.com/DexrnZacAttack) | Legacy Console Edition file editor using libLCE                                            |
-| [PCK++](https://github.com/LCE-R-D/PCKPP)           | [May/MattNL](https://github.com/MattN-L)            | A C++ Rewrite of PCK Studio, a tool to edit Minecraft Legacy Console Edition file formats. |
-| [LCENetplay](https://github.com/LCE-R-D/LCENetplay) | [DexrnZacAttack](https://github.com/DexrnZacAttack) | Minecraft: Legacy Console Edition Netplay                                                  |
+| Name                                                    | Maintainer                                          | Description                                                                                |
+|---------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------------------------------------------|
+| [Legacy++](https://github.com/LCE-R-D/LegacyPP)         | [DexrnZacAttack](https://github.com/DexrnZacAttack) | Legacy Console Edition file editor using libLCE                                            |
+| [PCK++](https://github.com/LCE-R-D/PCKPP)               | [May/MattNL](https://github.com/MattN-L)            | A C++ Rewrite of PCK Studio, a tool to edit Minecraft Legacy Console Edition file formats. |
+| [LCENetplay](https://github.com/LCE-R-D/LCENetplay)     | [DexrnZacAttack](https://github.com/DexrnZacAttack) | Minecraft: Legacy Console Edition Netplay                                                  |
+| [LegacyRecomp](https://github.com/LCE-R-D/LegacyRecomp) | [AleBlbl](https://github.com/AleBello7276)          | A static recompilation of Minecraft: Xbox 360 Edition                                      |
 
 ## Other Cool Projects
 
@@ -34,3 +35,6 @@
 | Name                                                                    | Creator                                     | Description                                        |
 |-------------------------------------------------------------------------|---------------------------------------------|----------------------------------------------------|
 | [LCE Decompilation Project](https://github.com/GRAnimated/MinecraftLCE) | [GRAnimated](https://github.com/GRAnimated) | Decompilation of Minecraft: Legacy Console Edition |
+
+## Notice
+Neither we nor any of our projects are associated with Mojang Studios, nor Microsoft. Minecraft is a trademark of Mojang Studios and Microsoft.
