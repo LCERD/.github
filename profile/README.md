@@ -10,10 +10,10 @@
 ## Projects
 | Name                                                    | Maintainer                                          | Description                                                                                |
 |---------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------------------------------------------|
-| [Legacy++](https://github.com/LCE-R-D/LegacyPP)         | [DexrnZacAttack](https://github.com/DexrnZacAttack) | Legacy Console Edition file editor using libLCE                                            |
-| [PCK++](https://github.com/LCE-R-D/PCKPP)               | [May/MattNL](https://github.com/MattN-L)            | A C++ Rewrite of PCK Studio, a tool to edit Minecraft Legacy Console Edition file formats. |
-| [LCENetplay](https://github.com/LCE-R-D/LCENetplay)     | [DexrnZacAttack](https://github.com/DexrnZacAttack) | Minecraft: Legacy Console Edition Netplay                                                  |
-| [LegacyRecomp](https://github.com/LCE-R-D/LegacyRecomp) | [AleBlbl](https://github.com/AleBello7276)          | A static recompilation of Minecraft: Xbox 360 Edition                                      |
+| [Legacy++](https://github.com/LCERD/LegacyPP)         | [DexrnZacAttack](https://github.com/DexrnZacAttack) | Legacy Console Edition file editor using libLCE                                            |
+| [PCK++](https://github.com/LCERD/PCKPP)               | [May/MattNL](https://github.com/MattN-L)            | A C++ Rewrite of PCK Studio, a tool to edit Minecraft Legacy Console Edition file formats. |
+| [LCENetplay](https://github.com/LCERD/LCENetplay)     | [DexrnZacAttack](https://github.com/DexrnZacAttack) | Minecraft: Legacy Console Edition Netplay                                                  |
+| [LegacyRecomp](https://github.com/LCERD/LegacyRecomp) | [AleBlbl](https://github.com/AleBello7276)          | A static recompilation of Minecraft: Xbox 360 Edition                                      |
 
 ## Other Cool Projects
 
