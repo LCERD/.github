@@ -32,9 +32,10 @@
 | [CodeLib](https://github.com/David-xF/CodeLib)                               | [David-xF](https://github.com/David-xF)             | This is a Code Library for the Minecraft Wii U Edition, which can only be used with the Cemu Emulator |
 
 ### Other
-| Name                                                                    | Creator                                     | Description                                        |
-|-------------------------------------------------------------------------|---------------------------------------------|----------------------------------------------------|
-| [LCE Decompilation Project](https://github.com/GRAnimated/MinecraftLCE) | [GRAnimated](https://github.com/GRAnimated) | Decompilation of Minecraft: Legacy Console Edition |
+| Name                                                                    | Creator                                             | Description                                                         |
+|-------------------------------------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------|
+| [LCE Decompilation Project](https://github.com/GRAnimated/MinecraftLCE) | [GRAnimated](https://github.com/GRAnimated)         | Decompilation of Minecraft: Legacy Console Edition                  |
+| [LCE Documentation](https://team-lodestone.github.io/Documentation/LCE) | [Team Lodestone](https://github.com/Team-Lodestone) | Documentation on various parts of Minecraft: Legacy Console Edition |
 
 ## Notice
 Neither we nor any of our projects are associated with Mojang Studios, nor Microsoft. Minecraft is a trademark of Mojang Studios and Microsoft.
