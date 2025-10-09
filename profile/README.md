@@ -27,7 +27,7 @@
 ### Libraries
 | Name                                                                         | Creator                                             | Description                                                                                           |
 |------------------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| [OMI Filetype Library](https://github.com/PhoenixARC/-OMI-Filetype-Library/) | [PhoenixARC](https://github.com/PhoenixARC)         | a proof of concept for a new Library                                                                  |
+| [OMI Filetype Library](https://github.com/LCERD/-OMI-Filetype-Library/) | [PhoenixARC](https://github.com/PhoenixARC)         | a proof of concept for a new Library                                                                  |
 | [libLCE](https://github.com/DexrnZacAttack/LibLCE)                           | [DexrnZacAttack](https://github.com/DexrnZacAttack) | A C++ library for Minecraft: Legacy Console Edition file formats + more                               |
 | [CodeLib](https://github.com/David-xF/CodeLib)                               | [David-xF](https://github.com/David-xF)             | This is a Code Library for the Minecraft Wii U Edition, which can only be used with the Cemu Emulator |
 
