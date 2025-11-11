@@ -8,12 +8,13 @@
 <!-- TODO: originally planned to have github pfp next to maintainer name and repo logo next to repo but never figured out how to make the text look nice -->
 <!-- I do think that the lack of images makes this look quite bare. -->
 ## Projects
-| Name                                                    | Maintainer                                          | Description                                                                                |
-|---------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Name                                                    | Maintainer(s)                                     | Description                                                                                |
+|---------------------------------------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------|
 | [Legacy++](https://github.com/LCERD/LegacyPP)         | [DexrnZacAttack](https://github.com/DexrnZacAttack) | Legacy Console Edition file editor using libLCE                                            |
 | [PCK++](https://github.com/LCERD/PCKPP)               | [May/MattNL](https://github.com/MattN-L)            | A C++ Rewrite of PCK Studio, a tool to edit Minecraft Legacy Console Edition file formats. |
 | [LCENetplay](https://github.com/LCERD/LCENetplay)     | [DexrnZacAttack](https://github.com/DexrnZacAttack) | Minecraft: Legacy Console Edition Netplay                                                  |
 | [LegacyRecomp](https://github.com/LCERD/LegacyRecomp) | [AleBlbl](https://github.com/AleBello7276)          | A static recompilation of Minecraft: Xbox 360 Edition                                      |
+| [OMI Filetype Library](https://github.com/LCERD/-OMI-Filetype-Library/) | [PhoenixARC](https://github.com/PhoenixARC), [NessieHax](https://github.com/NessieHax)         | A Legacy Console Edition file type library made in C#                                                                  |
 
 ## Other Cool Projects
 
@@ -27,7 +28,6 @@
 ### Libraries
 | Name                                                                         | Creator                                             | Description                                                                                           |
 |------------------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| [OMI Filetype Library](https://github.com/LCERD/-OMI-Filetype-Library/) | [PhoenixARC](https://github.com/PhoenixARC)         | a proof of concept for a new Library                                                                  |
 | [libLCE](https://github.com/DexrnZacAttack/LibLCE)                           | [DexrnZacAttack](https://github.com/DexrnZacAttack) | A C++ library for Minecraft: Legacy Console Edition file formats + more                               |
 | [CodeLib](https://github.com/David-xF/CodeLib)                               | [David-xF](https://github.com/David-xF)             | This is a Code Library for the Minecraft Wii U Edition, which can only be used with the Cemu Emulator |
 
