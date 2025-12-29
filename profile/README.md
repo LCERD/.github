@@ -10,12 +10,12 @@
 ## Projects
 | Name                                                    | Maintainer(s)                                     | Description                                                                                |
 |---------------------------------------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------|
-| [Legacy++](https://github.com/LCERD/LegacyPP)         | [DexrnZacAttack](https://github.com/DexrnZacAttack) | Legacy Console Edition file editor using libLCE                                            |
-| [PCK++](https://github.com/LCERD/PCKPP)               | [May/MattNL](https://github.com/MattN-L)            | A C++ Rewrite of PCK Studio, a tool to edit Minecraft Legacy Console Edition file formats. |
 | [LCENetplay](https://github.com/LCERD/LCENetplay)     | [DexrnZacAttack](https://github.com/DexrnZacAttack) | Minecraft: Legacy Console Edition Netplay                                                  |
+| [Legacy++](https://github.com/LCERD/LegacyPP)         | [DexrnZacAttack](https://github.com/DexrnZacAttack) | Legacy Console Edition file editor using libLCE                                            |
 | [LegacyRecomp](https://github.com/LCERD/LegacyRecomp) | [AleBlbl](https://github.com/AleBello7276)          | A static recompilation of Minecraft: Xbox 360 Edition                                      |
 | [OMI Filetype Library](https://github.com/LCERD/-OMI-Filetype-Library/) | [PhoenixARC](https://github.com/PhoenixARC), [NessieHax](https://github.com/NessieHax)         | A Legacy Console Edition file type library made in C#                                                                  |
 | [PCK Studio](https://github.com/LCERD/PCK-Studio)          | [PhoenixARC](https://github.com/PhoenixARC), [NessieHax](https://github.com/NessieHax), [MayNL](https://github.com/MayN-L), [EternalModz](https://github.com/EternalModz) | An open source .PCK file editor for the Legacy versions of Minecraft Console Edition |
+| [Quiver](https://github.com/LCERD/Quiver)               | [May/MattNL](https://github.com/MattN-L)            |  An IDE style program for editing Minecraft Legacy Console Edition DLC Packs with support for using external programs as well as using internal editors. Formerly PCK++, a C++ rewrite of PCK Studio.  |
 
 ## Other Cool Projects
 
