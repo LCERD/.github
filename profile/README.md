@@ -2,7 +2,7 @@
 
 [![Discord Channel][discord-badge]][discord]
 
-[discord]: https://discord.gg/zRDY32WMfs
+[discord]: https://discord.gg/8YeXvGRp7D
 [discord-badge]: https://img.shields.io/discord/806988877687423027?color=%237289DA&logo=discord&logoColor=%23FFFFFF
 
 <!-- TODO: originally planned to have github pfp next to maintainer name and repo logo next to repo but never figured out how to make the text look nice -->
